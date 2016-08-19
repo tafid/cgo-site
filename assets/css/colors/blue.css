@@ -1,0 +1,115 @@
+/*   
+Text Color:#2196F3
+Text Hover Color:#ff4e00
+Shape Color:#2092EC
+*/
+a{
+    color: #2196F3;
+}
+a:hover {
+    color: #ff4e00;
+}
+.nav-menu li a:hover{
+	color: #2196F3;
+}
+.nav-social-icons li a i{
+    color: #2092EC;
+}
+.nav-social-icons li:hover  i{
+	color:#ff4e00;
+}
+.search-btn {
+    background-color: #2092EC;
+}
+.orange-color {
+    color: #2092EC;
+}
+.rectangle-list-style{
+    border: 2px solid #2092EC;
+}
+.categories.content-box-body > ul > li:hover .rectangle-list-style{
+	background-color: #2092EC;
+	border:0;
+}
+.popular.content-box-body > ul > li:hover .rectangle-list-style{
+	background-color: #2092EC;
+	border:0;
+}
+.categories a:hover {
+    color: #2196F3;
+}
+.article-text h2:hover {
+    color: #2196F3;
+}
+.popular.content-box-body a:hover {
+    color: #2196F3;
+}
+.pagination ul li.active a {
+    color: #2196F3 !important;
+}
+.pagination ul li a:hover {
+    color: #ff4e00;
+}
+.pagination ul li.active {
+    border: 1px solid #2196F3;
+}
+.Subscribe-btn {
+    background-color: #2092EC;
+}
+.footer-bttom-line {
+    background-color: #2092EC;
+}
+.Subscribe-form input:focus {
+    border: 1px solid #2092EC;
+}
+.form-control:focus {
+    border-color: #2092EC;
+}
+.comment-form a, .contact-form a, .back-home-a:hover {
+    color: #2196F3 !important;
+}
+.comment-form a:hover i, .comment-form a:hover, .contact-form a:hover i, .contact-form a:hover, .back-home-section:hover a, .back-home-section:hover i {
+    color: #ff4e00 !important;
+}
+.blue-color {
+    color: #2092EC;
+}
+.cat-breadcrumb h1 {
+    color: #2196F3;
+}
+ul.post-info li a:hover {
+    color: #ff4e00;
+}
+.post-author-info h3 {
+    color: #2092EC;
+}
+ul.post-info a:hover span {
+    color: #ff4e00;
+}
+.post-author-info-social i:hover {
+    color: #ff4e00;
+}
+.comment-relpy-btn {
+    color: #2196F3;
+}
+.comment-relpy-btn:hover {
+    color: #ff4e00 !important;
+}
+.content-box-head i.fa-twitter{
+	color:#00bff3;
+}
+ul.post-tags li a:hover {
+    color: #ff4e00;
+}
+ul.share-post li a:hover {
+    color: #ff4e00;
+}
+.error-search input:focus {
+    border: 1px solid #2092EC;
+}
+.about-me {
+    background-color: #2092EC;
+}
+.owl-theme .owl-controls .owl-page span {
+    background: #2092EC !important;
+}

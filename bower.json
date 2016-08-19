@@ -1,0 +1,20 @@
+{
+  "name": "cgo",
+  "description": "Site of \"Center liberal education\"",
+  "main": "index.html",
+  "authors": [
+    "Andrey Klochok (tofid)"
+  ],
+  "license": "ISC",
+  "homepage": "http://cgo.nbuv.gov.ua",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+  }
+}

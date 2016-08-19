@@ -1,0 +1,16 @@
+{
+  "name": "cgo",
+  "version": "1.0.0",
+  "description": "Site of 'Center liberal education'",
+  "main": "index.html",
+  "author": "Andrey Klochok (tofid)",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "1.4.8",
+    "express": "4.14.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1"
+  }
+}
